@@ -148,7 +148,6 @@ locationsData={
     "loc-tech:massive_trades":147,
     "loc-tech:titanium_drills":148,
     "loc-tech:internet":149,
-    "loc-tech:wind_turbine":150,
     "loc-tech:uranium_storage":151,
     "loc-tech:fission":152,
     "loc-tech:dazzle":153,
